@@ -2,7 +2,7 @@
 
 **Alumno:** Gonzalo Alvarez Campos
 
-Examen de práctica (Evaluación Integradora) de la materia Técnicas de diseño y validación de modelos.
+Evaluación Integradora de la materia Técnicas de diseño y validación de modelos.
 
 La Parte 1 trabaja con el dataset **AI4I 2020 Predictive Maintenance** (UCI): clasificación binaria de fallas de máquina con clases muy desbalanceadas. Compara un baseline (Dummy), Regresión Logística, Árbol de Decisión, Random Forest y Gradient Boosting con validación cruzada estratificada, usando métricas adecuadas al desbalance (Average Precision, recall, precisión), curvas de aprendizaje y `class_weight="balanced"`. El modelo final elegido es Gradient Boosting.
 
