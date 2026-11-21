@@ -1,4 +1,4 @@
-# Examen de práctica · Parte 1 · Respuestas
+# Examen · Parte 1 · Respuestas
 
 Gonzalo Alvarez Campos · 20/11/2026
 
